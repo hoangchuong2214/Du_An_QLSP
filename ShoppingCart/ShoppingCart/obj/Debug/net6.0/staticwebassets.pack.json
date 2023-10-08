@@ -1,0 +1,429 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ShoppingCart.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ShoppingCart.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\backend\\js\\site.js",
+      "PackagePath": "staticwebassets\\backend\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\css\\prettyPhoto.css",
+      "PackagePath": "staticwebassets\\css\\prettyPhoto.css"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\css\\price-range.css",
+      "PackagePath": "staticwebassets\\css\\price-range.css"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\images\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\images\\404-error-icon-vector.jpg",
+      "PackagePath": "staticwebassets\\images\\404-error-icon-vector.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\js\\contact.js",
+      "PackagePath": "staticwebassets\\js\\contact.js"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\js\\gmaps.js",
+      "PackagePath": "staticwebassets\\js\\gmaps.js"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\js\\html5shiv.js",
+      "PackagePath": "staticwebassets\\js\\html5shiv.js"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\js\\jquery.prettyPhoto.js",
+      "PackagePath": "staticwebassets\\js\\jquery.prettyPhoto.js"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\js\\jquery.scrollUp.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.scrollUp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\js\\price-range.js",
+      "PackagePath": "staticwebassets\\js\\price-range.js"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\media\\products\\054bff50-b77e-433e-bd88-7be2f55b255a_1 (7).jpg",
+      "PackagePath": "staticwebassets\\media\\products\\054bff50-b77e-433e-bd88-7be2f55b255a_1 (7).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\media\\products\\1.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\media\\products\\13fa1e86-904d-47c7-acf7-c8729a81f88b_1.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\13fa1e86-904d-47c7-acf7-c8729a81f88b_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\media\\products\\17d44503-4510-456d-ad7c-769598214109_1 (4).jpg",
+      "PackagePath": "staticwebassets\\media\\products\\17d44503-4510-456d-ad7c-769598214109_1 (4).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\media\\products\\2.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\media\\products\\2055e229-d7e4-48c2-b958-039c259eb777_11.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\2055e229-d7e4-48c2-b958-039c259eb777_11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\media\\products\\269bd999-fb36-415f-a6b9-3acf3feaa609_11 (3).jpg",
+      "PackagePath": "staticwebassets\\media\\products\\269bd999-fb36-415f-a6b9-3acf3feaa609_11 (3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\media\\products\\276314c9-f0b8-4c55-ba61-5f53494db0a7_11 (5).jpg",
+      "PackagePath": "staticwebassets\\media\\products\\276314c9-f0b8-4c55-ba61-5f53494db0a7_11 (5).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\media\\products\\2851f202-33ee-410e-b9c2-72765b7d8fdd_1 (8).jpg",
+      "PackagePath": "staticwebassets\\media\\products\\2851f202-33ee-410e-b9c2-72765b7d8fdd_1 (8).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\media\\products\\29c7a05c-3734-4668-aa58-b6d08d445fb0_1 (11).jpg",
+      "PackagePath": "staticwebassets\\media\\products\\29c7a05c-3734-4668-aa58-b6d08d445fb0_1 (11).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\media\\products\\5bfeb251-0dee-473d-a7c7-7f3bd933d3b9_1 (10).jpg",
+      "PackagePath": "staticwebassets\\media\\products\\5bfeb251-0dee-473d-a7c7-7f3bd933d3b9_1 (10).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\media\\products\\6e000e01-9875-491a-9573-073c158207b5_11 (4).jpg",
+      "PackagePath": "staticwebassets\\media\\products\\6e000e01-9875-491a-9573-073c158207b5_11 (4).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\media\\products\\8a65d930-6bf3-4b17-b2de-1333ccc4924e_1 (5).jpg",
+      "PackagePath": "staticwebassets\\media\\products\\8a65d930-6bf3-4b17-b2de-1333ccc4924e_1 (5).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\media\\products\\8fde7873-d0be-4f1b-83ae-193256474dc5_1 (9).jpg",
+      "PackagePath": "staticwebassets\\media\\products\\8fde7873-d0be-4f1b-83ae-193256474dc5_1 (9).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\media\\products\\a6a297cc-e7d8-4874-8d4c-2b8556a66224_1 (5).jpg",
+      "PackagePath": "staticwebassets\\media\\products\\a6a297cc-e7d8-4874-8d4c-2b8556a66224_1 (5).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\media\\products\\a82e2ce2-1bfe-46d0-8e4a-73af91d4efee_1 (2).jpg",
+      "PackagePath": "staticwebassets\\media\\products\\a82e2ce2-1bfe-46d0-8e4a-73af91d4efee_1 (2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\media\\products\\b2cbbb0d-cbd1-4eea-a1ee-d8b2f36440fa_1 (6).jpg",
+      "PackagePath": "staticwebassets\\media\\products\\b2cbbb0d-cbd1-4eea-a1ee-d8b2f36440fa_1 (6).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\media\\products\\b4e80da3-3ba7-41d8-9a57-fb759a95db96_1 (6).jpg",
+      "PackagePath": "staticwebassets\\media\\products\\b4e80da3-3ba7-41d8-9a57-fb759a95db96_1 (6).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\media\\products\\ba2238bd-3961-4d3f-80cc-23b66d6d45c3_3.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\ba2238bd-3961-4d3f-80cc-23b66d6d45c3_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\media\\products\\c5f8663a-57c7-49ed-a29e-f291fcdb00b2_THUMB_Media_Assets_Thumb_galaxy_a04_green_(1).jpg",
+      "PackagePath": "staticwebassets\\media\\products\\c5f8663a-57c7-49ed-a29e-f291fcdb00b2_THUMB_Media_Assets_Thumb_galaxy_a04_green_(1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\media\\products\\cdc83a1a-0e34-40c8-bc58-942621647edd_12.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\cdc83a1a-0e34-40c8-bc58-942621647edd_12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\media\\products\\df4e826d-b024-45cc-9329-8f40055ef752_4.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\df4e826d-b024-45cc-9329-8f40055ef752_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\media\\products\\e4b22351-a914-49ff-8ddb-207083d33081_11 (6).jpg",
+      "PackagePath": "staticwebassets\\media\\products\\e4b22351-a914-49ff-8ddb-207083d33081_11 (6).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ChuongHuynh\\Music\\ShoppingCart - Copy(8)\\ShoppingCart\\wwwroot\\media\\products\\f62b8ce4-ea2f-4a29-a856-539cd1fb79d9_11 (2).jpg",
+      "PackagePath": "staticwebassets\\media\\products\\f62b8ce4-ea2f-4a29-a856-539cd1fb79d9_11 (2).jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ShoppingCart.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ShoppingCart.props",
+      "PackagePath": "build\\ShoppingCart.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ShoppingCart.props",
+      "PackagePath": "buildMultiTargeting\\ShoppingCart.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ShoppingCart.props",
+      "PackagePath": "buildTransitive\\ShoppingCart.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
